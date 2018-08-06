@@ -2,4 +2,4 @@
 ##basic gramma
 *#first
 *##second
-*[markdown](hyyp://www.markdown.cn)
+*[markdown](http://www.markdown.cn)
